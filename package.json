@@ -1,6 +1,6 @@
 {
   "name": "bracket-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "given start and end symbols, emit the text between them as a single data event.",
   "main": "index.js",
   "dependencies": {
