@@ -1,0 +1,30 @@
+{
+  "name": "bracket-stream",
+  "version": "0.0.0",
+  "description": "given start and end symbols, emit the text between them as a single data event.",
+  "main": "index.js",
+  "dependencies": {
+    "format-stream": "~0.1.0",
+    "new-from": "~0.0.3",
+    "sentinal-stream": "~0.2.2",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AWinterman/bracket-stream.git"
+  },
+  "keywords": [
+    "bracket",
+    "stream",
+    "subsection"
+  ],
+  "author": "Andrew Winterman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AWinterman/bracket-stream/issues"
+  }
+}
